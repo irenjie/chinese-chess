@@ -4,8 +4,8 @@
     <string name="pref_level_key" translatable="false">list_computer_power</string>
     <string name="pref_who_first_key" translatable="false">switch_computer_first</string>
     <string name="pref_piece_style_key" translatable="false">list_chess_style</string>
-    <string name="github_project_page" translatable="false">https://github.com/huzongyao/JChineseChess</string>
-    <string name="github_release_page" translatable="false">https://github.com/huzongyao/JChineseChess</string>
+    <string name="github_project_page" translatable="false">https://github.com/irenjie/chinese-chess</string>
+    <string name="github_release_page" translatable="false">https://github.com/irenjie/chinese-chess</string>
 
     <string name="app_name">ChineseChess</string>
     <string name="now_loading">Loading, Please Wait…</string>
